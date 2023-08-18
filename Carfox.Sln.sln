@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carfox", "Carfox\Carfox.csproj", "{F99ADB3B-8088-4EAD-AEB5-3654F50D9A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carfox Core", "Carfox Core\Carfox Core.csproj", "{D8534048-2BB8-4379-845E-785056799D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carfox Repository", "Carfox Repository\Carfox Repository.csproj", "{3D672479-6EB4-48E3-8C32-29261970AD01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carfox Services", "Carfox Services\Carfox Services.csproj", "{1BC6A287-5369-40C0-A6CC-1351B9F37849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99ADB3B-8088-4EAD-AEB5-3654F50D9A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99ADB3B-8088-4EAD-AEB5-3654F50D9A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99ADB3B-8088-4EAD-AEB5-3654F50D9A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99ADB3B-8088-4EAD-AEB5-3654F50D9A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8534048-2BB8-4379-845E-785056799D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8534048-2BB8-4379-845E-785056799D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8534048-2BB8-4379-845E-785056799D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8534048-2BB8-4379-845E-785056799D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D672479-6EB4-48E3-8C32-29261970AD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D672479-6EB4-48E3-8C32-29261970AD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D672479-6EB4-48E3-8C32-29261970AD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D672479-6EB4-48E3-8C32-29261970AD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC6A287-5369-40C0-A6CC-1351B9F37849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC6A287-5369-40C0-A6CC-1351B9F37849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC6A287-5369-40C0-A6CC-1351B9F37849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC6A287-5369-40C0-A6CC-1351B9F37849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6886E6F-9232-4288-A3E8-3D9B31C55C0E}
+	EndGlobalSection
+EndGlobal

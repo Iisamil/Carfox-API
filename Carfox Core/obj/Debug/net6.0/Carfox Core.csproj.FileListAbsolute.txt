@@ -1,0 +1,12 @@
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\bin\Debug\net6.0\Carfox Core.deps.json
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\bin\Debug\net6.0\Carfox Core.dll
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\bin\Debug\net6.0\Carfox Core.pdb
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\Carfox Core.csproj.AssemblyReference.cache
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\Carfox Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\Carfox Core.AssemblyInfoInputs.cache
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\Carfox Core.AssemblyInfo.cs
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\Carfox Core.csproj.CoreCompileInputs.cache
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\Carfox Core.dll
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\refint\Carfox Core.dll
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\Carfox Core.pdb
+E:\FCAI\Carfox\Carfox.Sln\Carfox Core\obj\Debug\net6.0\ref\Carfox Core.dll
