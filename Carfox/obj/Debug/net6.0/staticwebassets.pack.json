@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\FCAI\\Carfox\\Carfox.Sln\\Carfox\\wwwroot\\images\\017b8c84-740e-44fa-a3cb-ad36f56217161.png",
+      "PackagePath": "staticwebassets\\images\\017b8c84-740e-44fa-a3cb-ad36f56217161.png"
+    },
+    {
+      "Id": "E:\\FCAI\\Carfox\\Carfox.Sln\\Carfox\\wwwroot\\images\\3e9f497b-8ca7-4ab4-9d1b-cd5396cfc1cf2.jpg",
+      "PackagePath": "staticwebassets\\images\\3e9f497b-8ca7-4ab4-9d1b-cd5396cfc1cf2.jpg"
+    },
+    {
+      "Id": "E:\\FCAI\\Carfox\\Carfox.Sln\\Carfox\\wwwroot\\images\\666bf1a1-8ed7-4655-a3e8-f37fc9fc07103.jpg",
+      "PackagePath": "staticwebassets\\images\\666bf1a1-8ed7-4655-a3e8-f37fc9fc07103.jpg"
+    },
+    {
+      "Id": "E:\\FCAI\\Carfox\\Carfox.Sln\\Carfox\\wwwroot\\images\\b9e066ec-78d9-46ad-9cec-2404f0b8fdf5img1.jpg",
+      "PackagePath": "staticwebassets\\images\\b9e066ec-78d9-46ad-9cec-2404f0b8fdf5img1.jpg"
+    },
+    {
+      "Id": "E:\\FCAI\\Carfox\\Carfox.Sln\\Carfox\\wwwroot\\images\\f7e6b163-53a2-4c6e-96db-844015c8fe4bimg2.jpeg",
+      "PackagePath": "staticwebassets\\images\\f7e6b163-53a2-4c6e-96db-844015c8fe4bimg2.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Carfox.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Carfox.props",
+      "PackagePath": "build\\Carfox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Carfox.props",
+      "PackagePath": "buildMultiTargeting\\Carfox.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Carfox.props",
+      "PackagePath": "buildTransitive\\Carfox.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
